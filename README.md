@@ -3,5 +3,5 @@
 >Status do projeto: Cada dia um pouco mais de conhecimento...
 
 ```
-npm install react
+node app.js
 ```
